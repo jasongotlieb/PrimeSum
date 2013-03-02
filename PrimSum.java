@@ -5,7 +5,7 @@
  */
 import java.lang.Math;
 
-public class PrimeSum {
+public class PrimSum {
 
   public static void main(String args[]){
 		try{
